@@ -1,0 +1,21 @@
+{
+	"id": "0f927b75-4ce7-4d9d-8bd6-94a9234fe3ae",
+	"values": [
+		{
+			"key": "tokenAdmin",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "tokenUser",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-10-30T20:18:14.066Z",
+	"_postman_exported_using": "Postman/11.18.1"
+}
